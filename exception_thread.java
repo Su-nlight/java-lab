@@ -1,3 +1,4 @@
+//implement error handling techniques using multithreading
 public class MultithreadingExample {
     public static void main(String[] args) {
         Thread t1 = new Thread(new Task(10));
